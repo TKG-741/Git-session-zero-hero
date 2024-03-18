@@ -1,4 +1,4 @@
-# Git-session-zero-hero
+# Git-lesson
 # level 1 heading
 This is a class to train for Git hub 
 ## level 2 heading
