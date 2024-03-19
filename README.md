@@ -1,7 +1,7 @@
 # Git-lesson
-# level 1 heading
+# Github Class (level 1 heading)
 This is a class to train for Git hub 
-## level 2 heading
+## Heading types - level 2 heading
 To do list
 Course
 Lunch
